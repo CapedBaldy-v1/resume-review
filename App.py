@@ -26,7 +26,7 @@ import yt_dlp as youtube_dl
 import plotly.express as px #to create visualisations at the admin session
 import nltk
 
-nltk.download("stopwords")
+nltk.download('stopwords')
 
 
 def fetch_yt_video(link):
