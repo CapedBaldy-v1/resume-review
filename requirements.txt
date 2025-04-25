@@ -14,3 +14,4 @@ pafy
 yt_dlp
 plotly.express
 pdfminer3   
+pil
